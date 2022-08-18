@@ -1,0 +1,16 @@
+C:\Users\Josep\workspace\EnthusiasticMoose\bin\Debug\net5.0\EnthusiasticMoose.exe
+C:\Users\Josep\workspace\EnthusiasticMoose\bin\Debug\net5.0\EnthusiasticMoose.deps.json
+C:\Users\Josep\workspace\EnthusiasticMoose\bin\Debug\net5.0\EnthusiasticMoose.runtimeconfig.json
+C:\Users\Josep\workspace\EnthusiasticMoose\bin\Debug\net5.0\EnthusiasticMoose.runtimeconfig.dev.json
+C:\Users\Josep\workspace\EnthusiasticMoose\bin\Debug\net5.0\EnthusiasticMoose.dll
+C:\Users\Josep\workspace\EnthusiasticMoose\bin\Debug\net5.0\ref\EnthusiasticMoose.dll
+C:\Users\Josep\workspace\EnthusiasticMoose\bin\Debug\net5.0\EnthusiasticMoose.pdb
+C:\Users\Josep\workspace\EnthusiasticMoose\obj\Debug\net5.0\EnthusiasticMoose.csproj.AssemblyReference.cache
+C:\Users\Josep\workspace\EnthusiasticMoose\obj\Debug\net5.0\EnthusiasticMoose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josep\workspace\EnthusiasticMoose\obj\Debug\net5.0\EnthusiasticMoose.AssemblyInfoInputs.cache
+C:\Users\Josep\workspace\EnthusiasticMoose\obj\Debug\net5.0\EnthusiasticMoose.AssemblyInfo.cs
+C:\Users\Josep\workspace\EnthusiasticMoose\obj\Debug\net5.0\EnthusiasticMoose.csproj.CoreCompileInputs.cache
+C:\Users\Josep\workspace\EnthusiasticMoose\obj\Debug\net5.0\EnthusiasticMoose.dll
+C:\Users\Josep\workspace\EnthusiasticMoose\obj\Debug\net5.0\ref\EnthusiasticMoose.dll
+C:\Users\Josep\workspace\EnthusiasticMoose\obj\Debug\net5.0\EnthusiasticMoose.pdb
+C:\Users\Josep\workspace\EnthusiasticMoose\obj\Debug\net5.0\EnthusiasticMoose.genruntimeconfig.cache
