@@ -1,18 +1,23 @@
 ﻿using System;
 
-Console.WriteLine("Welcome to the Enthusiastic Moose Simulator!");
-Console.WriteLine("--------------------------------------------");
-Console.WriteLine();
+Main();
 
-// Let the moose speak!
-MooseSays("H I, I'M  E N T H U S I A S T I C !");
-MooseSays("I really am enthusiastic");
+void Main()
+{
+    Console.WriteLine("Welcome to the Enthusiastic Moose Simulator!");
+    Console.WriteLine("--------------------------------------------");
+    Console.WriteLine();
 
-// Ask some questions
-CanadaQuestion();
-EnthusiasticQuestion();
-LoveCSharpQuestion();
-SecretQuestion();
+    // Let the moose speak!
+    MooseSays("H I, I'M  E N T H U S I A S T I C !");
+    MooseSays("I really am enthusiastic");
+
+    // Ask a question
+    CanadaQuestion();
+    EnthusiasticQuestion();
+    LoveCSharpQuestion();
+    SecretQuestion();
+}
 
 
 void CanadaQuestion()
