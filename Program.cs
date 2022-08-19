@@ -33,8 +33,12 @@ void MooseQuestion(string question, string yesResponse, string noResponse)
     }
 }
 
+//bool sets a const that will return a boolean
+//string sets a const that will be a string
 bool MooseAsks(string question)
 {
+    //$ sting interpolation
+    //question is a parameter
     Console.Write($"{question} (Y/N): ");
     string answer = Console.ReadLine().ToLower();
 
@@ -44,6 +48,7 @@ bool MooseAsks(string question)
         answer = Console.ReadLine().ToLower();
     }
 
+    //conditionals
     if (answer == "y")
     {
         return true;
@@ -54,8 +59,12 @@ bool MooseAsks(string question)
     }
 }
 
+//void means method will not return anything
+//string sets a const and says the value will be in the form of a string
 void MooseSays(string message)
 {
+    //we add an @ in front of the string to allow for a multi-line string
+    //$ enables string interpolation
     Console.WriteLine($@"
                                       _.--^^^--,
                                     .'          `\
